@@ -10,7 +10,7 @@ body{
     background-color: rgb(157, 246, 216);
 }
 .container{
-    background-color: aliceblue;
+    background-color: white;
     padding:2rem;
     border-radius:1rem;
     min-height:45vh;
@@ -140,3 +140,4 @@ button:hover{
         width: 45vw;
     }
 }
+
