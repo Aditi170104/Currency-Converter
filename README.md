@@ -38,4 +38,6 @@ This project demonstrates practical frontend development skills, including API i
 
 ---
 
-## Project Structure
+## 
+<img width="1365" height="826" alt="image" src="https://github.com/user-attachments/assets/dea9b40f-c4ac-46f8-abab-e12410848305" />
+
